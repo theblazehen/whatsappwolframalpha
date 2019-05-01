@@ -1,0 +1,2 @@
+requests
+git+git://github.com/theblazehen/WebWhatsapp-Wrapper@master#egg=webwhatsapi
