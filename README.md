@@ -1,5 +1,6 @@
 # WhatsApp Web Wolfram Alpha Bot
 
+## Installation
 - `pip3 install -r requirements.txt`
 
 - Run whatsapp web in selenium: 
@@ -8,3 +9,6 @@
 - `python3 bot.py`
 
 - `vncviewer 127.0.0.1`, pw is secret. Scan the code on the phone
+
+## Usage
+Direct message it with a query, or if it's added to a group then start the query with a "WA", or "wa", case doesn't matter.
